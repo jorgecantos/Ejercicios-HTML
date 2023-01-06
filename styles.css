@@ -7,10 +7,14 @@ img {
 h1 {
     color: #BB2649;
     font-family: 'Sedgwick Ave', cursive;
+    text-align: center;
 }
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 ul {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table, th, td {
+    border: 1px solid black;
 }

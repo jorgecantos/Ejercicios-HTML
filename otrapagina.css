@@ -1,0 +1,27 @@
+/*
+h1 {
+    color: green;
+    text-align: center;
+    font-style: italic;
+}
+*/
+header > h1 { /*Selectores combinadores*/
+    color: green;
+    text-align: center;
+    font-style: italic;
+    background: beige;
+}
+nav > ul {
+    display: flex;
+    justify-content: center;
+    background-color: lavender;
+    height: 100px;
+    width: 960px;
+    border-radius: 30px;
+    margin: auto;
+}
+li {
+    padding: 50px;
+    font-size: 40px;
+    list-style-type: none;
+}
